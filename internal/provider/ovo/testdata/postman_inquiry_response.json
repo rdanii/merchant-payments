@@ -1,0 +1,33 @@
+{
+    "responseCode": "2005300",
+    "responseMessage": "Successful",
+    "originalReferenceNo": "H2H7a2617ccf0fe4ba2b7295b7c1f99",
+    "originalPartnerReferenceNo": "TRX-812323019050",
+    "serviceCode": "53",
+    "latestTransactionStatus": "00",
+    "transactionStatusDesc": "Payment Success",
+    "paidTime": "2023-05-02T10:37:53.371+0000",
+    "terminalId": "11762601",
+    "amount": {
+        "value": "3000"
+    },
+    "feeAmount": null,
+    "additionalInfo": {
+        "deviceId": "0001100009537395",
+        "channel": "ovo",
+        "gracePeriod": 5,
+        "userName": "NAME-REDACTED-IN-FIXTURE",
+        "merchantPan": "936009120000003547",
+        "customerPan": "",
+        "retrievalReferenceNumber": "",
+        "issuerName": "ovo",
+        "transactionId": "6983",
+        "merchantId": "DretailStore001",
+        "phoneNumber": "********2580",
+        "transactionSummary": {
+            "points": "0",
+            "cash": "3000",
+            "payLater": "0"
+        }
+    }
+}

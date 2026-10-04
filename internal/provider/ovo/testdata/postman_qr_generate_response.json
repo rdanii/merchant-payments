@@ -1,0 +1,17 @@
+{
+    "responseCode": "2004700",
+    "responseMessage": "Successful",
+    "referenceNo": "H2H784c1b556971470788fe1d80c6de",
+    "partnerReferenceNo": "TRX-ASacaSA",
+    "qrContent": "00020101021226580006id.ovo01189360091200000035470215lXglBoWv1FKdldj0303UMI51440015ID.OR.GPNQR.WWW0214ID2021075018580303UMI520415205303360540410005802ID5918Dretail Store Satu6008Meulaboh61052335062310507e87jbpP07167sWt1OwfUMzWb7SF6304B9A1",
+    "merchantName": "DretailStore001",
+    "storeId": null,
+    "terminalId": "11762601",
+    "additionalInfo": {
+        "deviceId": "123456797",
+        "channel": "ovo",
+        "transactionDate": "230505",
+        "batchNo": "cF9UXY",
+        "expiry": 75
+    }
+}
